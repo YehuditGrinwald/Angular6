@@ -1,5 +1,5 @@
 # Angular6
 Angular6 projects
 
-git clone 
+git clone  
 npm start
